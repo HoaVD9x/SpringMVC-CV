@@ -1,6 +1,7 @@
 package com.gmail.merikbest2015.twitterspringreactjs.service.impl;
 
 import com.amazonaws.services.s3.AmazonS3;
+import com.amazonaws.services.s3.model.CannedAccessControlList;
 import com.amazonaws.services.s3.model.PutObjectRequest;
 import com.gmail.merikbest2015.twitterspringreactjs.model.*;
 import com.gmail.merikbest2015.twitterspringreactjs.repository.*;
@@ -147,14 +148,15 @@ public class UserServiceImpl implements UserService {
     public Image uploadImage(MultipartFile multipartFile) {
         Image image = new Image();
         if (multipartFile != null) {
-            File file = new File(multipartFile.getOriginalFilename());
+            File file = new File(Objects.requireNonNull(multipartFile.getOriginalFilename()));
             try (FileOutputStream fos = new FileOutputStream(file)) {
                 fos.write(multipartFile.getBytes());
             } catch (IOException e) {
                 e.printStackTrace();
             }
             String fileName = UUID.randomUUID() + "_" + multipartFile.getOriginalFilename();
-            amazonS3client.putObject(new PutObjectRequest(bucketName, fileName, file));
+            amazonS3client.putObject(new PutObjectRequest(bucketName, fileName, file)
+                    .withCannedAcl(CannedAccessControlList.PublicRead));
             image.setSrc(amazonS3client.getUrl(bucketName, fileName).toString());
             file.delete();
         }

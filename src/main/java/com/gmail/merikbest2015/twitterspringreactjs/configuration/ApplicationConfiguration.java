@@ -24,11 +24,11 @@ public class ApplicationConfiguration {
     private String awsAccessSecret;
 
     @Bean
-    public AmazonS3 s3Client() {
+    public AmazonS3 amazonS3client() {
         AWSCredentials credentials = new BasicAWSCredentials(awsAccessKey, awsAccessSecret);
         return AmazonS3ClientBuilder.standard()
                 .withCredentials(new AWSStaticCredentialsProvider(credentials))
-                .withRegion(Regions.EU_CENTRAL_1)
+                .withRegion(Regions.AP_NORTHEAST_2)
                 .build();
     }
 
