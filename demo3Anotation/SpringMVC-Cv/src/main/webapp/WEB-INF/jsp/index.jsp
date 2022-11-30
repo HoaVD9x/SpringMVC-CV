@@ -47,7 +47,7 @@
 
         <div class="profile">
             <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-            <h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+            <h1 class="text-light"><a href="index.html">DINH HOA</a></h1>
             <div class="social-links mt-3 text-center">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -73,7 +73,7 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-        <h1>Alex Smith</h1>
+        <h1>DINH HOA</h1>
         <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
     </div>
 </section><!-- End Hero -->
@@ -86,7 +86,7 @@
 
             <div class="section-title">
                 <h2>About</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row">
@@ -133,7 +133,7 @@
 
             <div class="section-title">
                 <h2>Facts</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row no-gutters">
@@ -181,7 +181,7 @@
 
             <div class="section-title">
                 <h2>Skills</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row skills-content">
@@ -247,14 +247,14 @@
 
             <div class="section-title">
                 <h2>Resume</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row">
                 <div class="col-lg-6" data-aos="fade-up">
                     <h3 class="resume-title">Sumary</h3>
                     <div class="resume-item pb-0">
-                        <h4>Alex Smith</h4>
+                        <h4>DINH HOA</h4>
                         <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
                         <ul>
                             <li>Portland par 127,Orlando, FL</li>
@@ -313,7 +313,7 @@
 
             <div class="section-title">
                 <h2>Portfolio</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row" data-aos="fade-up">
@@ -430,7 +430,7 @@
 
             <div class="section-title">
                 <h2>Services</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row">
@@ -475,7 +475,7 @@
 
             <div class="section-title">
                 <h2>Testimonials</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -559,7 +559,7 @@
 
             <div class="section-title">
                 <h2>Contact</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>With logical thinking skills & a creative mindset, I want to become one of the key members who bring an effective IT solution to the customers. At the same time, I want to improve my knowledge through your professional working environment.</p>
             </div>
 
             <div class="row" data-aos="fade-in">
